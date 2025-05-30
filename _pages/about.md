@@ -46,7 +46,7 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=../images/CVPR2025.png width=800/>
+<img src=../images/own/CVPR2025.png width=800/>
 </div>
 
 
@@ -61,7 +61,7 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=../images/AAAI2025.png width=800/>
+<img src=../images/own/AAAI2025.png width=800/>
 </div>
 
 
@@ -76,7 +76,7 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=../images/BMVC.png width=800/>
+<img src=../images/own/BMVC.png width=800/>
 </div>
 
 - ``BMVC 2024`` ***ICAF-4: An Integrated Framework of Category-level Articulated Object Perception and Manipulation for Embodied Intelligence***. 
@@ -90,7 +90,7 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=../images/MM24.png width=800/>
+<img src=../images/own/MM24.png width=800/>
 </div>
 
 
@@ -105,7 +105,7 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=../images/nips24.png width=800/>
+<img src=../images/own/nips24.png width=800/>
 </div>
 
 
