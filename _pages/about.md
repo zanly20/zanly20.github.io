@@ -46,8 +46,9 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=./images/CVPR2025.png width=800/>
+<img src=../images/CVPR2025.png width=800/>
 </div>
+
 
 - ``CVPR 2025`` ***Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction***. 
 
@@ -60,8 +61,9 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=./images/AAAI2025.png width=800/>
+<img src=../images/AAAI2025.png width=800/>
 </div>
+
 
 - ``AAAI 2025`` ***R2-Art: Category-level Articulation Pose Estimation from Single RGB Image via Cascade Render Strategy***. 
 
@@ -74,8 +76,9 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=./images/BMVC.png width=800/>
+<img src=../images/BMVC.png width=800/>
 </div>
+
 - ``BMVC 2024`` ***ICAF-4: An Integrated Framework of Category-level Articulated Object Perception and Manipulation for Embodied Intelligence***. 
 
   *W Xu, **L Zhang**, Q Li, Q Wu, L Wu, L Liu*
@@ -87,8 +90,9 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=./images/MM24.png width=800/>
+<img src=../images/MM24.png width=800/>
 </div>
+
 
 - ``AAAI 2025`` *** VoCAPTER: Voting-based Pose Tracking for Category-level Articulated Object via Inter-frame Priors***.
 
@@ -101,8 +105,9 @@ My current research focuses on the visual perception of articulated and flexible
 
 
 <div align=center>
-<img src=./images/nips24.png width=800/>
+<img src=../images/nips24.png width=800/>
 </div>
+
 
 - `NeurIPS 2024(spotlight)` ***Rethinking 3D Convolution in $ \ell_p $-norm Space***. 
 
